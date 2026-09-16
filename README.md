@@ -153,7 +153,7 @@ Student-Dropout-Prediction/
 
 ## 🌐 Live Application
 
-https://5401b03bfa86aeabb1.gradio.live/
+ https://0da29666db68199286.gradio.live
 
 ## 📸 Final Prediction
 
